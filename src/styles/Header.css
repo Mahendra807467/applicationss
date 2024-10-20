@@ -1,0 +1,17 @@
+ .header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .search-bar {
+    width: 50%;
+    padding: 8px;
+  }
+  
+  .icons .icon {
+    margin-left: 20px;
+    cursor: pointer;
+  }
